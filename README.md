@@ -1,0 +1,1 @@
+Code and data used in the paper "Synthetic Lyrics Detection Across Languages and Genres" (NAACL 2025 Workshop TrustNLP), co-authored by Yanis Labrak, Markus Frohmann, Gabriel Meseguer-Brocal, and Elena V. Epure.
